@@ -1,0 +1,7 @@
+print('XXXXXXXXX')
+print("二进制",oct(0b10))
+print("二进制",bin(0b10))
+print("二进制",int(0b10))
+print("二进制",hex(0b10))
+print("八进制",int(0o10))
+print("十六进制",int(0x10))
